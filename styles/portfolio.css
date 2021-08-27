@@ -9,3 +9,6 @@ p {
   color: darkslategray;
   font-family: "Ubuntu Mono", monospace;
 }
+i {
+  text-align: center;
+}
