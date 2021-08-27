@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: green;
+  font-family: "WindSong", cursive;
+}
+p {
+  text-align: center;
+  color: darkslategray;
+  font-family: "Ubuntu Mono", monospace;
+}
