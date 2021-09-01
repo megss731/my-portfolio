@@ -1,3 +1,20 @@
 .my-logo {
   max-width: 70px;
 }
+h1 {
+  font-size: 86px;
+  font-family: "WindSong", cursive;
+}
+h2 {
+  font-size: 30px;
+  font-family: "Cutive Mono", monospace;
+}
+.intro {
+  font-size: 40px;
+  font-family: "Cutive Mono", monospace;
+}
+h1,
+h2,
+.intro {
+  text-align: center;
+}
