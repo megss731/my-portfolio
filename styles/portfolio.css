@@ -22,3 +22,28 @@ h2,
   padding: 50px;
   background-color: #98fa97;
 }
+p {
+  font-family: "Cutive Mono", monospace;
+}
+h3 {
+  font-family: "Windsong", cursive;
+  font-size: 50px;
+}
+
+@media (max-width: 720px) {
+  h1 {
+    font-size: 60px;
+  }
+  body {
+    text-align: center;
+  }
+}
+.ollie-photo,
+.vivi-photo {
+  max-width: 300px;
+  max-height: 300px;
+  justify-content: center;
+}
+.pet-para {
+  text-align: center;
+}
