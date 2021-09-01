@@ -18,3 +18,7 @@ h2,
 .intro {
   text-align: center;
 }
+.homepage-hero {
+  padding: 50px;
+  background-color: #98fa97;
+}
