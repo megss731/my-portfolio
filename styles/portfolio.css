@@ -47,3 +47,16 @@ h3 {
 .pet-para {
   text-align: center;
 }
+img {
+  border-radius: 5px;
+}
+.project-images {
+  max-width: 500px;
+  max-height: 500px;
+  padding: 30px;
+  background-color: #98fa97;
+}
+.project-descriptions {
+  font-size: 20px;
+  font-weight: bold;
+}
