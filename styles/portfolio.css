@@ -60,3 +60,16 @@ img {
   font-size: 20px;
   font-weight: bold;
 }
+.contact-links,
+a,
+.phone {
+  text-align: center;
+  font-size: 24px;
+  text-decoration: none;
+  color: #198754;
+}
+a:hover {
+  cursor: grab;
+  text-decoration: underline;
+  color: lightblue;
+}
