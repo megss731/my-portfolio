@@ -72,3 +72,9 @@ a:hover {
   text-decoration: underline;
   color: lightblue;
 }
+.footer-icons {
+  font-size: 32px;
+  color: #198754;
+  text-decoration: none;
+  margin: 5px;
+}
