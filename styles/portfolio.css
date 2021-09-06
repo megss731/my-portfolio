@@ -76,5 +76,12 @@ a:hover {
   font-size: 32px;
   color: #198754;
   text-decoration: none;
-  margin: 5px;
+  margin: 15px;
+  background-color: black;
+  padding: 10px 20px;
+  border-radius: 50%;
+}
+.footer-icons:hover {
+  color: black;
+  background-color: #198754;
 }
