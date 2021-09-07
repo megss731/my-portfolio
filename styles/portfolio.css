@@ -47,6 +47,7 @@ h3 {
   }
   .project-images {
     max-width: 300px;
+    max-height: 300px;
   }
 }
 .ollie-photo,
