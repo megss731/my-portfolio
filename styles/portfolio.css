@@ -45,6 +45,9 @@ h3 {
   footer {
     margin: 0;
   }
+  .contact-heading {
+    font-size: 48px;
+  }
 }
 .ollie-photo,
 .vivi-photo {
