@@ -37,6 +37,9 @@ h3 {
   body {
     text-align: center;
   }
+  .footer-icons {
+    font-size: 24px;
+  }
 }
 .ollie-photo,
 .vivi-photo {
