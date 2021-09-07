@@ -42,6 +42,9 @@ h3 {
     margin: 5px;
     padding: 5px 10px;
   }
+  footer {
+    margin: 0;
+  }
 }
 .ollie-photo,
 .vivi-photo {
