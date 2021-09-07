@@ -59,7 +59,7 @@ img {
   border-radius: 5px;
 }
 .project-images {
-  max-width: 100%
+  max-width: 300px;
   padding: 30px;
   background-color: #98fa97;
 }
