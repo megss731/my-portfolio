@@ -45,6 +45,9 @@ h3 {
   footer {
     margin: 0;
   }
+  .project-images {
+    max-width: 300px;
+  }
 }
 .ollie-photo,
 .vivi-photo {
